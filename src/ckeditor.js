@@ -326,8 +326,8 @@ ClassicEditor.defaultConfig = {
 		]
 	},
 	emoji: [
+		{ name: 'sideSmile', text: '😃'},
 		{ name: 'smile', text: '🙂'},
-		{ name: 'smile', text: '😀' },
 		{ name: 'wink', text: '😉' },
 		{ name: 'cool', text: '😎' },
 		{ name: 'surprise', text: '😮' },
