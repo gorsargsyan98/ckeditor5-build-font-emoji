@@ -87,10 +87,9 @@ ClassicEditor.defaultConfig = {
 		decorators: {
 			addTargetToLinks: {
 				mode: 'manual',
-				label: 'Openen in een nieuw venster (_blank, no-follow)',
+				label: 'Open in new tab',
 				attributes: {
 					target: '_blank',
-					rel: 'noopener noreferrer nofollow'
 				}
 			}
 		}
